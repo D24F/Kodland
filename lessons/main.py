@@ -21,4 +21,4 @@ async def mem(ctx):
    # Kita kemudian dapat mengirim file ini sebagai tolok ukur!
     await ctx.send(file=picture)
 
-bot.run("MTEyMTc4NDczNjkyMzI3MTE5OA.GvVXcb.OQiAXkJhlFUIhp8xxLLxGA1RXvPKiG7iE3uzr8")
+bot.run("")

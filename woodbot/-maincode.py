@@ -65,4 +65,4 @@ async def dice(ctx):
 
 
 #run bot
-bot.run("MTEyMTc4NDczNjkyMzI3MTE5OA.GxPt23.mKJyVH4xZi0Q-KGkM1x93MIAlSFLoFihnU7bN4")
+bot.run("")

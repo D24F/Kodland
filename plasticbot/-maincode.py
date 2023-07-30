@@ -30,4 +30,4 @@ async def tips(ctx):
 
 
 #run bot
-bot.run("MTEzMTkzODg2ODcwMzI3MzEyMg.GV6KZt.5udHUwNUgI3pzXEiaCfCGsHHfph34A6mTz40Z8")
+bot.run("")
