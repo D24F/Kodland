@@ -5,4 +5,4 @@ print(text)
 f.close()'''
 
 import os
-print(os.listdir('images'))
+print(os.listdir('lessons/discordbot/images'))

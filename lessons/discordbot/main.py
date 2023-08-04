@@ -14,8 +14,8 @@ async def on_ready():
 
 @bot.command()
 async def mem(ctx):
-    meme = random.choice(os.listdir('images'))
-    with open(f'images/{meme}', 'rb') as f:
+    meme = random.choice(os.listdir('lessons/discordbot/images'))
+    with open(f'lessons/discordbot/images/{meme}', 'rb') as f:
         # Mari simpan file perpustakaan/library Discord yang dikonversi dalam variabel ini!
         picture = discord.File(f)
    # Kita kemudian dapat mengirim file ini sebagai tolok ukur!
